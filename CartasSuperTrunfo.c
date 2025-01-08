@@ -3,7 +3,7 @@
 int main() {
     int codigo;
     int populacao;
-    int nomecidade;
+    char nomecidade[50];
 
     printf("Qual o codigo da cidade? ");
     scanf("%d", &codigo); // Lê um número inteiro para o código da cidade
