@@ -30,7 +30,7 @@ int main() {
     printf("Qual Número de Pontos Turísticos da cidade?\n");
     scanf("%d", &numerodepontos); // pontos turisticos da cidade
 
-    printf("carta1:\n Estado:%s\n",estado);
+    printf("carta1:\nEstado:%s\nCodigo:%d\nNome da Cidade:%s\nPolulacao:%d\nArea:%d\nPIB:%d\nNumero de Pontos Turisticos:%d\n",estado,codigo,nomecidade,populacao,area,pib,numerodepontos);
 
     }
 
