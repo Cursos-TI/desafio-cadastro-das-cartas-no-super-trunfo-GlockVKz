@@ -7,7 +7,7 @@ int main() {
     int populacao; //ok
     int area; //ok
     int pib; //okk
-    char nomecidade[50](string); //ok
+    char nomecidade[50]; //ok
 
     printf("Qual o nome do estado?\n");
     scanf("%s", &estado); //nome do estado
